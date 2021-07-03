@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1623560977 source:d:\c++ codes\free_food\main.cpp
+	<bits/stdc++.h>
+	<string>
+	"Node.h"
+
+1623561233 d:\c++ codes\free_food\include\node.h
+	<bits/stdc++.h>
+
+1623561379 source:d:\c++ codes\free_food\src\node.cpp
+	"Node.h"
+	<bits/stdc++.h>
+	<string>
+
